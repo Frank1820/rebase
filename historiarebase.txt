@@ -1,2 +1,5 @@
 Creamos la historia de dos alumnos intentando aprender a utilizar rebase que significa "cambiar de base" y es
  una especia de Fast-Foward que mueve el puntero HEAD
+
+Soy el alumno B que  estoy continuando la historia de mi compañero que basicamente es la anterior historia pero hemos cambiado de roles y vamos a usar el comando rebase 
+
