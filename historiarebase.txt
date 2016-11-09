@@ -1,0 +1,2 @@
+Creamos la historia de dos alumnos intentando aprender a utilizar rebase que significa "cambiar de base" y es
+ una especia de Fast-Foward que mueve el puntero HEAD
