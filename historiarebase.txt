@@ -3,3 +3,5 @@ Creamos la historia de dos alumnos intentando aprender a utilizar rebase que sig
 
 Soy el alumno B que  estoy continuando la historia de mi compañero que basicamente es la anterior historia pero hemos cambiado de roles y vamos a usar el comando rebase 
 
+Soy  el alumnno B que sigo con la historia esperando los cambios de mi compañero esperando que no la lie 
+
